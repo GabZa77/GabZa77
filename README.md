@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GabZa77
+- 👀 Eu estou interessado em: Aprender a criar jogos usando o javascript
+- 🌱 Eu estou aprendendo já: Javascript
+- 📫 Eu Sou do Brasil!
+- ❤ Eu gosto de jogar, aprender coisas novas, e dormir
